@@ -1,9 +1,8 @@
-package com.dummyClone.redditClone;
+package com.dummyClone.redditClone.Learning_Purpose_Only;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
-import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
 @Data

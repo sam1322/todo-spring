@@ -1,4 +1,4 @@
-package com.dummyClone.redditClone;
+package com.dummyClone.redditClone.Learning_Purpose_Only;
 
 import org.springframework.stereotype.Component;
 
